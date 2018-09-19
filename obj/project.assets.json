@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practice1\\practice1.csproj",
+      "projectUniqueName": "d:\\practice1\\ktechserve\\practice1.csproj",
       "projectName": "practice1",
-      "projectPath": "D:\\practice1\\practice1.csproj",
+      "projectPath": "d:\\practice1\\ktechserve\\practice1.csproj",
       "packagesPath": "C:\\Users\\Manoj\\.nuget\\packages\\",
-      "outputPath": "D:\\practice1\\obj\\",
+      "outputPath": "d:\\practice1\\ktechserve\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
